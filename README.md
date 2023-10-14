@@ -1,6 +1,6 @@
 # movieland
 
-![Uploading Screenshot 2023-10-13 at 11.05.57 PM.png…]()
+<img width="1180" alt="Screenshot 2023-10-13 at 11 07 19 PM" src="https://github.com/upandey3/movieland/assets/22348887/f6149a8a-837d-49aa-bac8-8e10b23f0c04">
 
 
 # Getting Started with Create React App
